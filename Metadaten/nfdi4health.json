@@ -1,0 +1,200 @@
+{
+  "data": {
+    "type": "studyhub_resources",
+    "attributes": {
+      "commit_button": "Submit",
+      "content_blobs": [
+        {
+          "content_type": "text/html",
+          "url": "https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance",
+          "original_filename": "Github Link"
+        }
+      ],
+      "resource": {
+        "resource_type": "Dataset",
+        "resource_type_general": "Dataset",
+        "resource_titles": [
+          {
+            "title": "Hochfrequente Mental Health Surveillance",
+            "title_language": "DE (German)"
+          }
+        ],
+        "resource_acronyms": [],
+        "resource_descriptions": [
+          {
+            "description": "Hochfrequente Beobachtung der psychischen Gesundheit der erwachsenen Bevölkerung in Deutschland",
+            "description_language": "DE (German)"
+          }
+        ],
+        "resource_format": "",
+        "resource_keywords": [
+          {
+            "resource_keywords_label": "Public health surveillance",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Epidemiology",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Mental Health",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Health Monitoring",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Public Health",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Survey Data",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Germany",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Depression",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "PHQ-2",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "GAD-2",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "GEDA",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "EHIS",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "COVIMO",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "smoothing splines",
+            "resource_keywords_label_code": ""
+          }
+        ],
+        "resource_language": [
+          "DE (German)"
+        ],
+        "resource_version": "2023-08-01",
+        "resource_web_page": "https://www.github.io/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance",
+        "resource_use_rights_label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)",
+        "resource_use_rights_description": "",
+        "resource_use_rights_authors_confirmation_1": true,
+        "resource_use_rights_authors_confirmation_2": true,
+        "resource_use_rights_authors_confirmation_3": true,
+        "resource_use_rights_support_by_licencing": true,
+        "provenance": {
+          "data_source": ""
+        },
+        "roles": [
+          {
+            "role_type": "Creator/Author",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Stephan",
+            "role_name_personal_family_name": "Junker",
+            "role_name_identifiers": [
+              {
+                "role_name_identifier": "0000-0001-8612-9347",
+                "role_name_identifier_scheme": "ORCID"
+              }
+            ]
+          },
+          {
+            "role_type": "Creator/Author",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Stefan",
+            "role_name_personal_family_name": "Damerow",
+            "role_name_identifiers": []
+          },
+          {
+            "role_type": "Creator/Author",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Lena",
+            "role_name_personal_family_name": "Walther",
+            "role_name_identifiers": [
+              {
+                "role_name_identifier": "0000-0002-2703-5022",
+                "role_name_identifier_scheme": "ORCID"
+              }
+            ]
+          },
+          {
+            "role_type": "Creator/Author",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Elvira",
+            "role_name_personal_family_name": "Mauz",
+            "role_name_identifiers": [
+              {
+                "role_name_identifier": "0000-0003-1988-9789",
+                "role_name_identifier_scheme": "ORCID"
+              }
+            ]
+          }
+        ],
+        "ids": [
+          {
+            "id_identifier": "https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance",
+            "id_date": "",
+            "id_type": "URL",
+            "id_relation_type": "describes",
+            "id_resource_type_general": "Dataset"
+          },
+          {
+            "id_identifier": "10.5281/zenodo.8186448",
+            "id_date": "",
+            "id_type": "DOI",
+            "id_relation_type": "has part",
+            "id_resource_type_general": "Dataset"
+          }
+        ]
+      }
+    },
+    "relationships": {
+      "projects": {
+        "data": [
+          {
+            "id": "1",
+            "type": "projects"
+          }
+        ]
+      }
+    }
+  }
+}
