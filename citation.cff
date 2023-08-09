@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+type: dataset
+title: Hochfrequente Mental Health Surveillance
+abstract: >-
+  Im Rahmen der Mental Health Surveillance (MHS) am Robert Koch-Institut (RKI)
+  werden für eine Auswahl an Indikatoren der psychischen Gesundheit von
+  Erwachsenen basierend auf Surveydaten Zeitreihen bestehend aus gleitenden
+  Drei-Monats-Schätzern und Glättungskurven berechnet. Dadurch sollen
+  Entwicklungen in der psychischen Gesundheit der erwachsenen Bevölkerung in
+  Deutschland mit möglichst geringem Zeitverzug beobachtet und insbesondere
+  negative Entwicklungen frühzeitig erkannt werden. Diese hochfrequente
+  Surveillance wurde ursprünglich vor dem Hintergrund neuer Informationsbedarfe
+  zur Entwicklung der psychischen Gesundheit der Bevölkerung in der
+  COVID-19-Pandemie entwickelt.
+date-released: '2023-08-09'
+keywords:
+  - Public health surveillance
+  - Epidemiology
+  - Mental Health
+  - Health Monitoring
+  - Public Health
+  - Survey Data
+  - Germany
+  - Depression
+  - PHQ-2
+  - GAD-2
+  - GEDA
+  - EHIS
+  - COVIMO
+  - smoothing splines
+message: Cite me!
+url: >-
+  https://www.github.io/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance
+license: CC-BY-4.0
+doi: 10.5281/zenodo.8207806
+authors:
+  - family-names: Junker
+    given-names: Stephan
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0001-8612-9347
+  - family-names: Damerow
+    given-names: Stefan
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0002-7265-1123
+  - family-names: Walther
+    given-names: Lena
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0002-2703-5022
+  - family-names: Mauz
+    given-names: Elvira
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0003-1988-9789
