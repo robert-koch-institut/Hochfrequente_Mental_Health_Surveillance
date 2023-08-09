@@ -33,15 +33,15 @@
             "resource_keywords_label_code": ""
           },
           {
+            "resource_keywords_label": "Gesundheitsberichterstattung",
+            "resource_keywords_label_code": ""
+          },
+          {
             "resource_keywords_label": "Epidemiology",
             "resource_keywords_label_code": ""
           },
           {
-            "resource_keywords_label": "Mental Health",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Health Monitoring",
+            "resource_keywords_label": "Epidemiologie",
             "resource_keywords_label_code": ""
           },
           {
@@ -49,7 +49,43 @@
             "resource_keywords_label_code": ""
           },
           {
-            "resource_keywords_label": "Survey Data",
+            "resource_keywords_label": "Öffentliches Gesundheitswesen",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Depression",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "smoothing splines",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Anxiety Disorders",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Angststörungen",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "RKI",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Open Data",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "offene Daten",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Mental Health",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Psychische Gesundheit",
             "resource_keywords_label_code": ""
           },
           {
@@ -57,7 +93,7 @@
             "resource_keywords_label_code": ""
           },
           {
-            "resource_keywords_label": "Depression",
+            "resource_keywords_label": "Deutschland",
             "resource_keywords_label_code": ""
           },
           {
@@ -81,7 +117,27 @@
             "resource_keywords_label_code": ""
           },
           {
-            "resource_keywords_label": "smoothing splines",
+            "resource_keywords_label": "Diagnostic Self Evaluation",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Diagnostische Selbsteinschätzung",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Surveys and Questionnaires",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Erhebungen und Fragebögen",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Epidemiological Monitoring",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Epidemiologische Überwachung",
             "resource_keywords_label_code": ""
           }
         ],
