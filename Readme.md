@@ -14,7 +14,7 @@ Stephan Junker, Stefan Damerow, Lena Walther und Elvira Mauz
 ---
 
 **Zitieren**  
-Junker, Damerow, Walther und Mauz (2023): Hochfrequente Mental Health Surveillance, Berlin: Zenodo. DOI: [10.5281/zenodo.8047807](https://doi.org/10.5281/zenodo.8047807) 
+Junker, Damerow, Walther und Mauz (2023): Hochfrequente Mental Health Surveillance, Berlin: Zenodo. DOI: [10.5281/zenodo.8238457](https://doi.org/10.5281/zenodo.8238457) 
 
 
 ## Einleitung
