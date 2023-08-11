@@ -1,20 +1,19 @@
 Datensatzdokumentation
-# Hochfrequente Mental Health Surveillance
+# Hochfrequente Mental Health Surveillance 
+*Hochfrequente Beobachtung der psychischen Gesundheit der erwachsenen Bevölkerung in Deutschland*  
 
-Hochfrequente Beobachtung der psychischen Gesundheit der erwachsenen Bevölkerung in Deutschland
 
 [Robert Koch-Institut | RKI](https://rki.de)  
 Nordufer 20  
 13353 Berlin  
 
-Stephan Junker, Stefan Damerow, Lena Walther und Elvira Mauz
+[Stephan Junker](0000-0001-8612-9347), [Stefan Damerow](0000-0002-7265-1123), [Lena Walther](0000-0002-2703-5022) und [Elvira Mauz](0000-0003-1988-9789)  
 [Fachgebiet 26 | Psychische Gesundheit](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt2/FG26/fg26_node.html)
-
 
 ---
 
 **Zitieren**  
-Junker, Damerow, Walther und Mauz (2023): Hochfrequente Mental Health Surveillance, Berlin: Zenodo. DOI: [10.5281/zenodo.8238457](https://doi.org/10.5281/zenodo.8238457) 
+Junker, Damerow, Walther und Mauz (2023): Hochfrequente Mental Health Surveillance, Berlin: Zenodo. DOI: [10.5281/zenodo.8238471](https://doi.org/10.5281/zenodo.8238471) 
 
 
 ## Einleitung
@@ -41,15 +40,15 @@ Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagemen
 
 ## Datenerhebung und Datenauswertung  
 
-Die Datengrundlage der Zeitreihen sind vor allem verschiedene Erhebungswellen der im Rahmen des Gesundheitsmonitorings durchgeführten Studie [„Gesundheit in Deutschland aktuell (GEDA)“: GEDA/EHIS 2019-2020, GEDA 2020, GEDA 2021, GEDA 2022 und GEDA 2023](https://www.geda-studie.de/deutsch/home.html). Eine Erhebungslücke in 2021 konnte mit Daten des „COVID-19 Impfquoten-Monitoring in Deutschland (COVIMO)“ geschlossen werden. Alle Studien wurden durch das Bundesministerium für Gesundheit beauftragt und für die Auswertungen zusammengeführt. Diese repräsentativ angelegten telefonischen Gesundheitssurveys umfassen monatliche Erhebungen in Zufallsstichproben von zunächst jeweils ca. 1.000 in Deutschland lebenden Erwachsenen (2019-2021), dann von ca. 3.000 Erwachsenen (2022-2023) und aktuell von ca. 1.000 bis 2.000 Erwachsenen (ab Mai 2023). Die Stichprobenziehung erfolgte in diesen Studien über ein sogenanntes Dual-Frame-Verfahren, das eine Mobilfunk und eine Festnetzgesamtheit als Auswahlgesamtheiten nutzt ([Allen et al., 2021](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/JoHM_03_2021_GEDA_2019_2020_EHIS.pdf?__blob=publicationFile)).
+Die Datengrundlage der Zeitreihen sind vor allem verschiedene Erhebungswellen der im Rahmen des Gesundheitsmonitorings durchgeführten Studie [„Gesundheit in Deutschland aktuell (GEDA)“: GEDA/EHIS 2019-2020, GEDA 2020, GEDA 2021, GEDA 2022 und GEDA 2023](https://www.geda-studie.de/deutsch/home.html). Eine Erhebungslücke in 2021 konnte mit Daten des „[COVID-19 Impfquoten-Monitoring in Deutschland (COVIMO)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/covimo_studie_Ergebnisse.html)“ geschlossen werden. Alle Studien wurden durch das Bundesministerium für Gesundheit beauftragt und für die Auswertungen zusammengeführt. Diese repräsentativ angelegten telefonischen Gesundheitssurveys umfassen monatliche Erhebungen in Zufallsstichproben von zunächst jeweils ca. 1.000 in Deutschland lebenden Erwachsenen (2019-2021), dann von ca. 3.000 Erwachsenen (2022-2023) und aktuell von ca. 1.000 bzw. für depressive Symptome 2.000 Erwachsenen (ab Mitte April 2023). Die Stichprobenziehung erfolgte in diesen Studien über ein sogenanntes Dual-Frame-Verfahren, das eine Mobilfunk und eine Festnetzgesamtheit als Auswahlgesamtheiten nutzt ([Allen et al., 2021](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/JoHM_03_2021_GEDA_2019_2020_EHIS.pdf?__blob=publicationFile)).
 
 Zur Durchführung der telefonischen Befragungen arbeitet das RKI mit einem externen Markt- und Sozialforschungsinstitut (USUMA GmbH) zusammen, welches im Auftrag des Epidemiologischen Daten- und Befragungszentrums der Abteilung 2 des Robert Koch-Instituts die Daten erhebt und unter Einhaltung der Datenschutz- und Sicherheitsbestimmungen anonymisiert zur Verfügung stellt. Bevor die Daten für Auswertungen bereitgestellt werden, findet eine standardisierte Datenaufbereitung inklusive Datenqualitätssicherung statt. So werden z.B. unplausible Angaben identifiziert, Fälle bereinigt oder Variablen generiert ([Allen et al., 2021](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/JoHM_03_2021_GEDA_2019_2020_EHIS.pdf?__blob=publicationFile)). Nach der Bereitstellung der Daten für die MHS erfolgt eine inhaltliche Datenprüfung bezügliche der Angaben zur psychischen Gesundheit und es werden Gewichtungsfaktoren berechnet, die unterschiedliche Teilnahmebereitschaften in verschiedenen Bevölkerungsgruppen sowie die verschiedenen Auswahlwahrscheinlichkeiten der befragten Personen berücksichtigen. Nähere Studieninformationen sind abrufbar unter:
 
-GEDA („Gesundheit in Deutschland aktuell“)EHIS („European Health Interview Survey“) 2019-2020, GEDA 2021, GEDA 2022:
-https://www.rki.de/DE/Content/Gesundheitsmonitoring/Studien/Geda/Geda_node.html
+“Gesundheit in Deutschland aktuell - European Health Interview Survey” | GEDA-EHIS 2019-2020, GEDA 2021, GEDA 2022, GEDA 2023:
+[https://www.rki.de/DE/Content/Gesundheitsmonitoring/Studien/Geda/Geda_node.html](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Studien/Geda/Geda_node.html)
 
 COVIMO-Studie: Impfverhalten, Impfbereitschaft und -akzeptanz in Deutschland:
-https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/covimo_studie_Ergebnisse.html
+[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/covimo_studie_Ergebnisse.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/covimo_studie_Ergebnisse.html)
 
 
 ### Untersuchungszeitraum  
@@ -77,7 +76,7 @@ Antwortoptionen: `ausgezeichnet` = 5, `sehr gut` = 4, `gut` = 3, `weniger gut` =
 
 Der Datensatz enthält Schätzer zum Bevölkerungsmittelwert sowie zum Anteil mit einem Wert ≥ 4, also dem Anteil in Deutschland lebender Erwachsener mit einer sehr guten bis ausgezeichneten selbsteingeschätzten psychischen Gesundheit.
 
-### Indikator "depressive Symptome"
+#### Indikator "depressive Symptome"
 
 Der Indikator “depressive Symptome” wird mit dem validierten Messinstrument „Patient Health Questionnaire-2“ (PHQ-2) erfasst ([Löwe et al., 2005](C:\Users\persekek\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\HKNYBDLS\10.1016\j.jpsychores.2004.09.006)). Der PHQ-2 fragt:
 
@@ -108,7 +107,8 @@ Um die Entwicklung mehrerer Indikatoren der psychischen Gesundheit der in Deutsc
 
 #### Gleitende Drei-Monats-Schätzer
 
-Bei den monatlichen Schätzern handelt es sich um gleitende Drei-Monats-Schätzer: Sie beruhen jeweils auf Daten aus drei aufeinanderfolgenden Befragungsmonaten und rücken stets um einen Monat weiter. Der erste Drei-Monats-Schätzer der berechneten Zeitreihen zu depressiven Symptomen umfasst zum Beispiel Daten aus dem Zeitraum Mitte April bis Mitte Juli 2019. Der nächste Drei-Monats-Schätzer umfasst dann die Monate Mitte Mai bis Mitte August. Alle Drei-Monats-Fenster beginnen und enden mit einer Monatsmitte, weil die monatlichen Erhebungswellen der ausgewerteten Surveys stets in Monatsmitte begannen. In der zeitlichen Umgebung von Datenlücken werden teilweise Schätzer basierend auf Daten aus zwei Monaten innerhalb eines Drei-Monats-Fensters berechnet, niemals jedoch werden Schätzer basierend auf Daten aus nur einem Monat berechnet.
+Bei den monatlichen Schätzern handelt es sich um gleitende Drei-Monats-Schätzer: Sie beruhen jeweils auf Daten aus drei aufeinanderfolgenden Befragungsmonaten und rücken stets um einen Monat weiter. Der erste Drei-Monats-Schätzer der berechneten Zeitreihen zu depressiven Symptomen umfasst zum Beispiel Daten aus dem Zeitraum Mitte April bis Mitte Juli 2019. Der nächste Drei-Monats-Schätzer umfasst dann die Monate Mitte Mai bis Mitte August. Alle Drei-Monats-Fenster beginnen und enden mit einer Monatsmitte, weil die monatlichen Erhebungswellen der ausgewerteten Surveys meist etwa zur Monatsmitte begannen. In der zeitlichen Umgebung von Datenlücken werden teilweise Schätzer basierend auf Daten aus zwei Monaten innerhalb eines Drei-Monats-Fensters berechnet, niemals jedoch werden Schätzer basierend auf Daten aus nur einem Monat berechnet.
+
 Vorteil der Verwendung von Drei-Monats-Schätzern: Durch die Berechnung von gleitendenden monatlichen Schätzern von Indikatoren der psychischen Gesundheit basierend auf Daten aus jeweils drei (oder zwei) Monaten werden die Stichprobengrößen je Schätzer erhöht und somit auch eine höhere statistische Genauigkeit der Schätzer erreicht. Außerdem trägt dieser Ansatz zur Glättung der Zeitreihen bei, indem zufällige, Stichprobengrößen-bedingte Schwankungen reduziert werden. Bei Ein-Monats-Schätzern käme es zu größeren Fluktuationen durch zufällige Abweichungen zwischen Schätzern, wodurch Trends weniger gut erkennbar bzw. interpretierbar wären. Dies kann besonders bei Indikatoren mit einer geringen Prävalenz und entsprechend geringen Fallzahlen in den Stichproben zum Problem werden sowie bei nach Geschlecht, Alter oder Bildung stratifizierten Zeitreihen.
 
 #### Glättungskurven
@@ -158,18 +158,17 @@ Die Daten enthalten folgende Variablen und Variablenausprägungen:
 | Variablenname | Typ | Ausprägung | Erläuterung | 
 |---|---|---|---|
 | model | string | `3M_Mittelwerte`, `3M_Anteile`, `Mittelwerte_smooth`, `Anteile_smooth` | Gibt an, welches Modell zur Schätzung genutzt wurde, eine lineare (3_Monate_Mittelwerte) bzw. logistische Regression (3_Monate_Anteile) für Drei-Monats-Fenster oder ein generalized additive model mit einem smoothing spline unter der Annahme einer Gaussverteilung (Mittelwerte_smooth) oder Binomialverteilung (Anteile_smooth) basierend auf wöchentlichen Datenpunkten | 
-| instrument | string | `SRMH`, `PHQ-2`, `GAD-2` | Gibt das Instrument an das genutzt wurde und für den der fit berechnet wurde <br /><br />`SRMH`: Self-rates mental health,<br /><br /> `PHQ-2`: Patient Health Questionaire mit 2 Items,<br /><br /> `GAD-2` : Generalized Anxiety Disorder mit 2 Items | 
-| type | string | `Summenscore`, `kategorial` | Gibt an ob das Instrument als `Summenscore` oder aber `kategorial` mit einem cut-off Wert genutzt wurde, für den dann darüber und darunter liegende Anteile berechnet wurden | 
-| category | string | `gesamt`, `Altersgruppe`, `Bildungsgruppe`, `Geschlecht`| Gibt an, nach welcher Kategorie stratifiziert wurde <br /><br /> `Bildungsgruppe`: Bildungsgruppe nach CASMIN <br /><br /> `Geschlecht`: wie bei Geburt zugewiesen| 
-| cat_value | string | `gesamt`, `18-29 Jahre`, `30-44 Jahre`, `45-64 Jahre`, `65+ Jahre`, `niedrige Bildungsgruppe`, `mittlerer Bildungsgruppe`, `hohe Bildungsgruppe`, `männlich`, `weiblich` | Gibt an, für welche Subgruppe der fit (Schätzer) berechnet wurde | 
-| standardized | boolean | `TRUE`, `FALSE` | Gibt an ob die Werte bei Stratifizierung für die anderen Kategorien standardisiert wurden | 
+| instrument | string | `SRMH`, `PHQ-2`, `GAD-2` | Gibt das Instrument an, das genutzt wurde und für das der fit (Schätzer) berechnet wurde <br><br>`SRMH`: Self-rated mental health bzw. selbsteingeschätzte psychische Gesundheit<br><br> `PHQ-2`: (Kurzscreener “Patient Health Questionaire-2”): depressive Symptome,<br><br> `GAD-2` (Kurzscreener “Generalized Anxiety Disorder-2”): Angstsymptome | 
+| type | string | `Summenscore`, `kategorial` | Gibt an, ob das Instrument als `Summenscore` oder aber `kategorial` mit einem Cut-Off-Wert genutzt wurde, um darüber und darunter liegende Anteile zu schätzen | 
+| category | string | `gesamt`, `Altersgruppe`, `Bildungsgruppe`, `Geschlecht`| Gibt an, nach welcher Kategorie stratifiziert wurde <br><br> `Bildungsgruppe`: Bildungsgruppe nach CASMIN <br><br> `Geschlecht`: wie bei Geburt zugewiesen| 
+| cat_value | string | `gesamt`, `18-29 Jahre`, `30-44 Jahre`, `45-64 Jahre`, `65+ Jahre`, `niedrige Bildungsgruppe`, `mittlere Bildungsgruppe`, `hohe Bildungsgruppe`, `männlich`, `weiblich` | Gibt an, für welche Subgruppe der fit (Schätzer) berechnet wurde | 
+| standardized | boolean | `TRUE`, `FALSE` | Gibt an, ob die Werte bei Stratifizierung für die anderen Kategorien standardisiert wurden | 
 | date | date | `yyyy-mm-dd` | Gibt die Mitte des Drei-Monats-Fensters bzw. der Woche an, für den der fit (Schätzer) berechnet wurde | 
 | fit | float | `≥0`, `NA` | Gibt den geschätzten Bevölkerungsmittelwert des Summenscores bzw. den geschätzten Anteil der Bevölkerung an, der über bzw. unter dem Cut-Off-Wert liegt, wenn verfügbar bzw. berechenbar, alternativ NA | 
 | se | float | `>0`, `NA` | Gibt den Standardfehler an, wenn verfügbar, alternativ NA | 
 | lwr | float | `≥0`, `NA`| Gibt das untere 95%-Konfidenzintervall an, wenn verfügbar, alternativ NA | 
 | upr | float |`≥0`, `NA` | Gibt das obere 95%-Konfidenzintervall an, wenn verfügbar, alternativ NA | 
 | period_duration | string | `3_Monate`, `2_Monate`,`1_Woche` | Gibt an, auf welche Periode sich der fit bezieht, auf eine Woche (für Anteil_smooth und Mittelwerte_smooth) oder ob innerhalb des jeweiligen Drei-Monats-Fensters für zwei oder drei Monate Beobachtungen vorhanden waren | 
-gleiche Anteil der Y-Achse unabhängig vom Indikator zu sehen sein soll.  | 
 | period_text | string | `Mitte <Monat> bis Mitte <Monat>` | Beschreibt explizit das Drei-Monats-Fenster, für das die fits berechnet wurden | | 
 
 ### Metadaten
@@ -196,7 +195,7 @@ Der Datensatz “Hochfrequente Mental Health Surveillance” ist lizenziert unte
 
 Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](/LICENSE) bzw. [LIZENZ](/LIZENZ) Datei des Datensatzes.
 
-### Litaratur
+## Literatur
 
 [Ahmad F, Jhajj AK, Stewart DE, Burghardt M, Bierman AS. Single item measures of self-rated mental health: a scoping review. BMC Health Serv Res. 2014; 14:398. ](https://doi.org/10.1186/1472-6963-14-398)
 
