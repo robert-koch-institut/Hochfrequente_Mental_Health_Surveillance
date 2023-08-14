@@ -46,7 +46,8 @@ message: Cite me!
 url: >-
   https://www.github.io/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance
 license: CC-BY-4.0
-doi: 10.5281/zenodo.8245726
+doi: 10.5281/zenodo.8246796
+version: '2023-07-19T09:23:10+02:00'
 authors:
   - family-names: Junker
     given-names: Stephan
