@@ -13,7 +13,7 @@ Nordufer 20
 ---
 
 **Zitieren**  
-Junker, Damerow, Walther und Mauz (2023): Hochfrequente Mental Health Surveillance, Berlin: Zenodo. DOI: [10.5281/zenodo.8238489](https://doi.org/10.5281/zenodo.8238489) 
+Junker, Damerow, Walther und Mauz (2023): Hochfrequente Mental Health Surveillance, Berlin: Zenodo. DOI: [10.5281/zenodo.8207806](https://doi.org/10.5281/zenodo.8207806) 
 
 
 ## Einleitung
@@ -40,7 +40,7 @@ Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagemen
 
 ## Datenerhebung und Datenauswertung  
 
-Die Datengrundlage der Zeitreihen sind vor allem verschiedene Erhebungswellen der im Rahmen des Gesundheitsmonitorings durchgeführten Studie [„Gesundheit in Deutschland aktuell (GEDA)“: GEDA/EHIS 2019-2020, GEDA 2020, GEDA 2021, GEDA 2022 und GEDA 2023](https://www.geda-studie.de/deutsch/home.html). Eine Erhebungslücke in 2021 konnte mit Daten des „[COVID-19 Impfquoten-Monitoring in Deutschland (COVIMO)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/covimo_studie_Ergebnisse.html)“ geschlossen werden. Alle Studien wurden durch das Bundesministerium für Gesundheit beauftragt und für die Auswertungen zusammengeführt. Diese repräsentativ angelegten telefonischen Gesundheitssurveys umfassen monatliche Erhebungen in Zufallsstichproben von zunächst jeweils ca. 1.000 in Deutschland lebenden Erwachsenen (2019-2021), dann von ca. 3.000 Erwachsenen (2022-2023) und aktuell von ca. 1.000 bzw. für depressive Symptome 2.000 Erwachsenen (ab Mitte April 2023). Die Stichprobenziehung erfolgte in diesen Studien über ein sogenanntes Dual-Frame-Verfahren, das eine Mobilfunk und eine Festnetzgesamtheit als Auswahlgesamtheiten nutzt ([Allen et al., 2021](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/JoHM_03_2021_GEDA_2019_2020_EHIS.pdf?__blob=publicationFile)).
+Die Datengrundlage der Zeitreihen sind vor allem verschiedene Erhebungswellen der im Rahmen des Gesundheitsmonitorings durchgeführten Studie [„Gesundheit in Deutschland aktuell (GEDA)“: GEDA/EHIS 2019-2020, GEDA 2021, GEDA 2022 und GEDA 2023](https://www.geda-studie.de/deutsch/home.html). Eine Erhebungslücke in 2021 konnte mit Daten des „[COVID-19 Impfquoten-Monitoring in Deutschland (COVIMO)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/covimo_studie_Ergebnisse.html)“ geschlossen werden. Alle Studien wurden durch das Bundesministerium für Gesundheit beauftragt und für die Auswertungen zusammengeführt. Diese repräsentativ angelegten telefonischen Gesundheitssurveys umfassen monatliche Erhebungen in Zufallsstichproben von zunächst jeweils ca. 1.000 in Deutschland lebenden Erwachsenen (2019-2021), dann von ca. 3.000 Erwachsenen (2022-2023) und aktuell von ca. 1.000 bzw. für depressive Symptome 2.000 Erwachsenen (ab Mitte April 2023). Die Stichprobenziehung erfolgte in diesen Studien über ein sogenanntes Dual-Frame-Verfahren, das eine Mobilfunk- und eine Festnetzgesamtheit als Auswahlgesamtheiten nutzt ([Allen et al., 2021](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/JoHM_03_2021_GEDA_2019_2020_EHIS.pdf?__blob=publicationFile)).
 
 Zur Durchführung der telefonischen Befragungen arbeitet das RKI mit einem externen Markt- und Sozialforschungsinstitut (USUMA GmbH) zusammen, welches im Auftrag des Epidemiologischen Daten- und Befragungszentrums der Abteilung 2 des Robert Koch-Instituts die Daten erhebt und unter Einhaltung der Datenschutz- und Sicherheitsbestimmungen anonymisiert zur Verfügung stellt. Bevor die Daten für Auswertungen bereitgestellt werden, findet eine standardisierte Datenaufbereitung inklusive Datenqualitätssicherung statt. So werden z.B. unplausible Angaben identifiziert, Fälle bereinigt oder Variablen generiert ([Allen et al., 2021](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/JoHM_03_2021_GEDA_2019_2020_EHIS.pdf?__blob=publicationFile)). Nach der Bereitstellung der Daten für die MHS erfolgt eine inhaltliche Datenprüfung bezügliche der Angaben zur psychischen Gesundheit und es werden Gewichtungsfaktoren berechnet, die unterschiedliche Teilnahmebereitschaften in verschiedenen Bevölkerungsgruppen sowie die verschiedenen Auswahlwahrscheinlichkeiten der befragten Personen berücksichtigen. Nähere Studieninformationen sind abrufbar unter:
 
@@ -58,12 +58,13 @@ Die Untersuchungszeiträume unterscheiden sich für die verschiedenen Indikatore
 ### Grundgesamtheit  
 
 Die Grundgesamtheit der GEDA- und COVIMO-Erhebungen umfasst die deutschsprachige, in Privathaushalten lebende Bevölkerung ab 15 Jahren (GEDA-EHIS 2019/2020), 16 Jahren (GEDA 2021, 2022) bzw. 18 Jahren (GEDA 2023, COVIMO), deren üblicher Aufenthaltsort zum Zeitpunkt der Datenerhebung in Deutschland liegt. Hierbei sind sowohl Einpersonen- als auch Mehrpersonenhaushalte inbegriffen, die eigenständig wirtschaften und sich selbständig mit für den Lebensunterhalt notwendigen Dingen versorgen. Diese Definition umfasst keine kollektiven Haushalte wie Krankenhäuser, Pflege- oder Wohnheime, Gefängnisse, Kasernen, religiöse Einrichtungen, Pensionen oder Wohnheime. "Üblicher Aufenthaltsort" beschreibt den Ort, an dem eine Person normalerweise lebt oder ihren Lebensmittelpunkt sieht – ungeachtet vorübergehender Abwesenheit zu Zwecken der Erholung, der beruflichen Tätigkeit, der medizinischen Behandlung oder ähnlichem.
+
 Die Auswertungen für den vorliegenden Datensatz wurden mit GEDA- und COVIMO-Daten von Erwachsenen (ab 18 Jahren) durchgeführt, weil die Entwicklung der psychischen Gesundheit Erwachsener im Fokus stehen. Ab 2022 sind die untersuchten Indikatoren außerdem nicht mehr bei unter 18-Jährigen abgefragt worden.
 
 
 ### Erhebungsinstrumente  
 
-Der vorliegende Datensatz enthält aggregierte Daten aus den Studien GEDA/EHIS 2019-2020, GEDA 2020, COVIMO, GEDA 2021, GEDA 2022 und GEDA 2023 zu drei Indikatoren: 
+Der vorliegende Datensatz enthält aggregierte Daten aus den Studien GEDA/EHIS 2019-2020, COVIMO, GEDA 2021, GEDA 2022 und GEDA 2023 zu drei Indikatoren: 
 
 #### Indikator „selbsteingeschätzte psychische Gesundheit“
 
@@ -137,7 +138,7 @@ Junker S, Damerow S, Walther L, Mauz E. Development of a prototype for high-freq
 
 ## Aufbau und Inhalt des Datensatzes
 
-Der Datensatz enthält aggregierte Daten aus den Studien GEDA/EHIS 2019-2020, GEDA 2020, COVIMO, GEDA 2021, GEDA 2022 und GEDA 2023, wie sie in der hochfrequenten Mental Health Surveillance aufbereitet wurden. Im Datensatz enthalten sind:
+Der Datensatz enthält aggregierte Daten aus den Studien GEDA/EHIS 2019-2020, COVIMO, GEDA 2021, GEDA 2022 und GEDA 2023, wie sie in der hochfrequenten Mental Health Surveillance aufbereitet wurden. Im Datensatz enthalten sind:
 
 - Daten der hochfrequenten Mental Health Surveillance
 - Datensatzdokumentation in deutscher Sprache
@@ -166,8 +167,8 @@ Die Daten enthalten folgende Variablen und Variablenausprägungen:
 | date | date | `yyyy-mm-dd` | Gibt die Mitte des Drei-Monats-Fensters bzw. der Woche an, für den der fit (Schätzer) berechnet wurde | 
 | fit | float | `≥0`, `NA` | Gibt den geschätzten Bevölkerungsmittelwert des Summenscores bzw. den geschätzten Anteil der Bevölkerung an, der über bzw. unter dem Cut-Off-Wert liegt, wenn verfügbar bzw. berechenbar, alternativ NA | 
 | se | float | `>0`, `NA` | Gibt den Standardfehler an, wenn verfügbar, alternativ NA | 
-| lwr | float | `≥0`, `NA`| Gibt das untere 95%-Konfidenzintervall an, wenn verfügbar, alternativ NA | 
-| upr | float |`≥0`, `NA` | Gibt das obere 95%-Konfidenzintervall an, wenn verfügbar, alternativ NA | 
+| lwr | float | `≥0`, `NA`| Gibt die untere Grenze des 95%-Konfidenzintervalls an, wenn verfügbar, alternativ NA | 
+| upr | float |`≥0`, `NA` | Gibt die obere Grenze des 95%-Konfidenzintervall an, wenn verfügbar, alternativ NA | 
 | period_duration | string | `3_Monate`, `2_Monate`,`1_Woche` | Gibt an, auf welche Periode sich der fit bezieht, auf eine Woche (für Anteil_smooth und Mittelwerte_smooth) oder ob innerhalb des jeweiligen Drei-Monats-Fensters für zwei oder drei Monate Beobachtungen vorhanden waren | 
 | period_text | string | `Mitte <Monat> bis Mitte <Monat>` | Beschreibt explizit das Drei-Monats-Fenster, für das die fits berechnet wurden | | 
 
@@ -204,8 +205,9 @@ Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung 
 [Brauns H, Scherer S, Steinmann S. The CASMIN Educational Classification in International Comparative Research. In: Hoffmeyer-Zlotnik, J.H.P., Wolf, C. (eds) Advances in Cross-National Comparison. 2003. Springer, Boston, MA. 
 Kroenke K, Spitzer RL, Williams JBW, Monahan PO, Löwe B. Anxiety disorders in primary care: prevalence, impairment, comorbidity, and detection. Ann Intern Med. 2007; 146:317–25.](https://doi.org/10.1007/978-1-4419-9186-7_11)
 
-[Löwe B, Kroenke K, Gräfe K. Detecting and monitoring depression with a two-item questionnaire (PHQ-2). J Psychosom Res. 2005; 58:163–71. 
-Schwarz N. The German Microzensus. Schmollers Jahrbuch/J Appl Soc Sci. 2001. 121:649-654](https://doi.org/10.1016/j.jpsychores.2004.09.006)
+[Löwe B, Kroenke K, Gräfe K. Detecting and monitoring depression with a two-item questionnaire (PHQ-2). J Psychosom Res. 2005; 58:163–71.](https://doi.org/10.1016/j.jpsychores.2004.09.006)
+
+[Schwarz N. The German Microzensus. Schmollers Jahrbuch/J Appl Soc Sci. 2001. 121:649-654](https://www.ratswd.de/download/schmollers/Schwarz.pdf)
 
 [Wood SN. Thin Plate Regression Splines. JR Stat Soc, B Stat Methodol. 65(1):95–114.](https://doi.org/10.1111/1467-9868.00374)
 
