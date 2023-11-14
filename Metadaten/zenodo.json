@@ -50,8 +50,8 @@
     "Epidemiological Monitoring",
     "Epidemiologische Überwachung"
   ],
-  "publication_date": "2023-10-20",
-  "version": "2023-10-16",
+  "publication_date": "2023-11-14",
+  "version": "2023-11-14",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -81,8 +81,8 @@
   ],
   "dates": [
     {
-      "start": "2023-10-16T08:13:38+02:00",
-      "end": "2023-10-16T08:13:38+02:00",
+      "start": "2023-11-14T09:10:09+01:00",
+      "end": "2023-11-14T09:10:09+01:00",
       "type": "Collected",
       "description": "Date when the Dataset was created"
     }
