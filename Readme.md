@@ -13,7 +13,7 @@ Nordufer 20
 ---
 
 **Zitieren**  
-Junker, Damerow, Walther und Mauz (2023): Hochfrequente Mental Health Surveillance, Berlin: Zenodo. [DOI: 10.5281/zenodo.10125111](https://doi.org/10.5281/zenodo.10125111) 
+Junker, Damerow, Walther und Mauz (2024): Hochfrequente Mental Health Surveillance, Berlin: Zenodo. [DOI: 10.5281/zenodo.10474401](https://doi.org/10.5281/zenodo.10474401) 
 
 
 ## Einleitung
