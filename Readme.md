@@ -158,7 +158,7 @@ Die Daten enthalten folgende Variablen und Variablenausprägungen:
 
 | Variablenname | Typ | Ausprägung | Erläuterung | 
 |---|---|---|---|
-| model | string | `3M_Mittelwerte`, `3M_Anteile`, `Mittelwerte_smooth`, `Anteile_smooth` | Gibt an, welches Modell zur Schätzung genutzt wurde, eine lineare (3_Monate_Mittelwerte) bzw. logistische Regression (3_Monate_Anteile) für Drei-Monats-Fenster oder ein generalized additive model mit einem smoothing spline unter der Annahme einer Gaussverteilung (Mittelwerte_smooth) oder Binomialverteilung (Anteile_smooth) basierend auf wöchentlichen Datenpunkten | 
+| model | string | `3_Monate_Mittelwerte`, `3_Monate_Anteile`, `Mittelwerte_smooth`, `Anteile_smooth` | Gibt an, welches Modell zur Schätzung genutzt wurde, eine lineare (3_Monate_Mittelwerte) bzw. logistische Regression (3_Monate_Anteile) für Drei-Monats-Fenster oder ein generalized additive model mit einem smoothing spline unter der Annahme einer Gaussverteilung (Mittelwerte_smooth) oder Binomialverteilung (Anteile_smooth) basierend auf wöchentlichen Datenpunkten | 
 | instrument | string | `SRMH`, `PHQ-2`, `GAD-2` | Gibt das Instrument an, das genutzt wurde und für das der fit (Schätzer) berechnet wurde <br><br>`SRMH`: Self-rated mental health bzw. selbsteingeschätzte psychische Gesundheit<br><br> `PHQ-2`: (Kurzscreener “Patient Health Questionaire-2”): depressive Symptome,<br><br> `GAD-2` (Kurzscreener “Generalized Anxiety Disorder-2”): Angstsymptome | 
 | type | string | `Summenscore`, `kategorial` | Gibt an, ob das Instrument als `Summenscore` oder aber `kategorial` mit einem Cut-Off-Wert genutzt wurde, um darüber und darunter liegende Anteile zu schätzen | 
 | category | string | `gesamt`, `Altersgruppe`, `Bildungsgruppe`, `Geschlecht`| Gibt an, nach welcher Kategorie stratifiziert wurde <br><br> `Bildungsgruppe`: Bildungsgruppe nach CASMIN <br><br> `Geschlecht`: wie bei Geburt zugewiesen| 
@@ -170,7 +170,7 @@ Die Daten enthalten folgende Variablen und Variablenausprägungen:
 | lwr | float | `≥0`, `NA`| Gibt die untere Grenze des 95%-Konfidenzintervalls an, wenn verfügbar, alternativ NA | 
 | upr | float |`≥0`, `NA` | Gibt die obere Grenze des 95%-Konfidenzintervall an, wenn verfügbar, alternativ NA | 
 | period_duration | string | `3_Monate`, `2_Monate`,`1_Woche` | Gibt an, auf welche Periode sich der fit bezieht, auf eine Woche (für Anteil_smooth und Mittelwerte_smooth) oder ob innerhalb des jeweiligen Drei-Monats-Fensters für zwei oder drei Monate Beobachtungen vorhanden waren | 
-| period_text | string | `Mitte <Monat> bis Mitte <Monat>` | Beschreibt explizit das Drei-Monats-Fenster, für das die fits berechnet wurden | | 
+| period_text | string | `Mitte <Monat> bis Mitte <Monat>`, alternativ `NA` | Beschreibt explizit das Drei-Monats-Fenster, für das die fits berechnet wurden | | 
 
 ### Metadaten
 
