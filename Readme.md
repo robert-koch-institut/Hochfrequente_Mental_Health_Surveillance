@@ -170,7 +170,9 @@ Die Daten enthalten folgende Variablen und Variablenausprägungen:
 | lwr | float | `≥0`, `NA`| Gibt die untere Grenze des 95%-Konfidenzintervalls an, wenn verfügbar, alternativ NA | 
 | upr | float |`≥0`, `NA` | Gibt die obere Grenze des 95%-Konfidenzintervall an, wenn verfügbar, alternativ NA | 
 | period_duration | string | `3_Monate`, `2_Monate`,`1_Woche` | Gibt an, auf welche Periode sich der fit bezieht, auf eine Woche (für Anteil_smooth und Mittelwerte_smooth) oder ob innerhalb des jeweiligen Drei-Monats-Fensters für zwei oder drei Monate Beobachtungen vorhanden waren | 
-| period_text | string | `Mitte <Monat> bis Mitte <Monat>`, alternativ `NA` | Beschreibt explizit das Drei-Monats-Fenster, für das die fits berechnet wurden | | 
+| period_text | string | `Mitte <Monat> bis Mitte <Monat>`, alternativ `NA` | Beschreibt explizit das Drei-Monats-Fenster, für das die fits berechnet wurden |
+| obs_month_period | integer | `>0`, `NA` | Gibt die Anzahl der Beobachtungen im jeweiligen Drei-Monats-Fenster an, die in die Schätzung eingegangen sind. Die Beobachtungen können auch nur in zwei Monaten gemacht worden sein, siehe `period_duration`
+| obs_timeseries | integer | `>0` | Gibt die Anzahl aller Beobachtungen an, auf denen die jeweilige Zeitreihe beruht |
 
 ### Metadaten
 
