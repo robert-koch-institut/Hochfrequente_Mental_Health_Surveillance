@@ -105,7 +105,7 @@
     },
     {
       "relation": "isDescribedBy",
-      "identifier": "https://www.github.io/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance",
+      "identifier": "https://robert-koch-institut.github.io/Hochfrequente_Mental_Health_Surveillance",
       "resource_type": "other"
     }
   ]
