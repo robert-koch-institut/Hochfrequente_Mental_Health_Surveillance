@@ -1,0 +1,16 @@
+{
+  "name": "hochfrequente_mental_health_surveillance",
+  "title": "Hochfrequente_Mental_Health_Surveillance",
+  "description": "Frictionless data package. This package lists and describes all data files in this open data repository. For more information on frictionless data, see https://specs.frictionlessdata.io/ and https://framework.frictionlessdata.io/.",
+  "resources": [
+    {
+      "name": "high_frequency_mental_health_surveillance",
+      "type": "table",
+      "path": "../../high_frequency_mental_health_surveillance.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_high_frequency_mental_health_surveillance.json"
+    }
+  ]
+}

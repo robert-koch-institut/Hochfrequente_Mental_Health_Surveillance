@@ -166,12 +166,12 @@ Die Daten enthalten folgende Variablen und Variablenausprägungen:
 | standardized | boolean | `TRUE`, `FALSE` | Gibt an, ob die Werte bei Stratifizierung für die anderen Kategorien standardisiert wurden | 
 | date | date | `yyyy-mm-dd` | Gibt die Mitte des Drei-Monats-Fensters bzw. der Woche an, für den der fit (Schätzer) berechnet wurde | 
 | fit | float | `≥0`, `NA` | Gibt den geschätzten Bevölkerungsmittelwert des Summenscores bzw. den geschätzten Anteil der Bevölkerung an, der über bzw. unter dem Cut-Off-Wert liegt, wenn verfügbar bzw. berechenbar, alternativ NA | 
-| se | float | `>0`, `NA` | Gibt den Standardfehler an, wenn verfügbar, alternativ NA | 
+| se | float | `≥0`, `NA` | Gibt den Standardfehler an, wenn verfügbar, alternativ NA | 
 | lwr | float | `≥0`, `NA`| Gibt die untere Grenze des 95%-Konfidenzintervalls an, wenn verfügbar, alternativ NA | 
 | upr | float |`≥0`, `NA` | Gibt die obere Grenze des 95%-Konfidenzintervall an, wenn verfügbar, alternativ NA | 
 | period_duration | string | `3_Monate`, `2_Monate`,`1_Woche` | Gibt an, auf welche Periode sich der fit bezieht, auf eine Woche (für Anteil_smooth und Mittelwerte_smooth) oder ob innerhalb des jeweiligen Drei-Monats-Fensters für zwei oder drei Monate Beobachtungen vorhanden waren | 
 | period_text | string | `Mitte <Monat> bis Mitte <Monat>`, alternativ `NA` | Beschreibt explizit das Drei-Monats-Fenster, für das die fits berechnet wurden |
-| obs_month_period | integer | `>0`, `NA` | Gibt die Anzahl der Beobachtungen im jeweiligen Drei-Monats-Fenster an, die in die Schätzung eingegangen sind. Die Beobachtungen können auch nur in zwei Monaten gemacht worden sein, siehe `period_duration`
+| obs_month_period | integer | `>0`, `NA` | Gibt die Anzahl der Beobachtungen im jeweiligen Drei-Monats-Fenster an, die in die Schätzung eingegangen sind. Die Beobachtungen können auch nur in zwei Monaten gemacht worden sein, siehe `period_duration` |
 | obs_timeseries | integer | `>0` | Gibt die Anzahl aller Beobachtungen an, auf denen die jeweilige Zeitreihe beruht |
 
 ### Metadaten
