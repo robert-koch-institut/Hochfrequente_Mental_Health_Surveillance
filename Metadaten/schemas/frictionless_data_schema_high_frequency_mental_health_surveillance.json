@@ -70,7 +70,7 @@
     },
     {
       "name": "standardized",
-      "type": "string",
+      "type": "boolean",
       "description": "Gibt an, ob die Werte bei Stratifizierung für die anderen Kategorien standardisiert wurden",
       "constraints": {
         "enum": [
@@ -88,7 +88,8 @@
     {
       "name": "date",
       "type": "date",
-      "description": "Gibt die Mitte des Drei-Monats-Fensters bzw. der Woche an, für den der fit (Schätzer) berechnet wurde"
+      "description": "Gibt die Mitte des Drei-Monats-Fensters bzw. der Woche an, für den der fit (Schätzer) berechnet wurde",
+      "format": "%Y-%m-%d"
     },
     {
       "name": "fit",
@@ -154,7 +155,9 @@
         "NA"
       ],
       "constraints": {
-        "pattern": "Mitte [A-Za-zäöü]+ bis Mitte [A-Za-zäöü]+"
+        "enum": [
+          "Mitte <Monat> bis Mitte <Monat>"
+        ]
       }
     },
     {
@@ -165,7 +168,7 @@
         "NA"
       ],
       "constraints": {
-        "minimum": 0
+        "minimum": 1
       }
     },
     {
@@ -173,7 +176,7 @@
       "type": "integer",
       "description": "Gibt die Anzahl aller Beobachtungen an, auf denen die jeweilige Zeitreihe beruht",
       "constraints": {
-        "minimum": 0
+        "minimum": 1
       }
     }
   ]

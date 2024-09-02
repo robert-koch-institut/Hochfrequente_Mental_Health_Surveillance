@@ -1,0 +1,64 @@
+{
+  "fields": [
+    {
+      "name": "model",
+      "type": "string"
+    },
+    {
+      "name": "instrument",
+      "type": "string"
+    },
+    {
+      "name": "type",
+      "type": "string"
+    },
+    {
+      "name": "category",
+      "type": "string"
+    },
+    {
+      "name": "cat_value",
+      "type": "string"
+    },
+    {
+      "name": "standardized",
+      "type": "boolean"
+    },
+    {
+      "name": "date",
+      "type": "date"
+    },
+    {
+      "name": "fit",
+      "type": "string"
+    },
+    {
+      "name": "se",
+      "type": "string"
+    },
+    {
+      "name": "lwr",
+      "type": "string"
+    },
+    {
+      "name": "upr",
+      "type": "string"
+    },
+    {
+      "name": "period_duration",
+      "type": "string"
+    },
+    {
+      "name": "period_text",
+      "type": "string"
+    },
+    {
+      "name": "obs_month_period",
+      "type": "integer"
+    },
+    {
+      "name": "obs_timeseries",
+      "type": "integer"
+    }
+  ]
+}

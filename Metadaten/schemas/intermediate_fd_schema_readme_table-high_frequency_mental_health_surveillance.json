@@ -82,7 +82,8 @@
     {
       "name": "date",
       "type": "date",
-      "description": "Gibt die Mitte des Drei-Monats-Fensters bzw. der Woche an, für den der fit (Schätzer) berechnet wurde"
+      "description": "Gibt die Mitte des Drei-Monats-Fensters bzw. der Woche an, für den der fit (Schätzer) berechnet wurde",
+      "format": "%Y-%m-%d"
     },
     {
       "name": "fit",
@@ -146,7 +147,12 @@
       "description": "Beschreibt explizit das Drei-Monats-Fenster, für das die fits berechnet wurden",
       "missingValues": [
         "NA"
-      ]
+      ],
+      "constraints": {
+        "enum": [
+          "Mitte <Monat> bis Mitte <Monat>"
+        ]
+      }
     },
     {
       "name": "obs_month_period",
