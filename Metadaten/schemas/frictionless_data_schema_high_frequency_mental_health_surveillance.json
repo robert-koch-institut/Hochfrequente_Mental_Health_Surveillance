@@ -155,9 +155,7 @@
         "NA"
       ],
       "constraints": {
-        "enum": [
-          "Mitte <Monat> bis Mitte <Monat>"
-        ]
+        "pattern": "Mitte [A-Za-zäöü]+ bis Mitte [A-Za-zäöü]+"
       }
     },
     {
