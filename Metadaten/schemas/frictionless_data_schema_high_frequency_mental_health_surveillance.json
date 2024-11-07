@@ -155,8 +155,21 @@
         "NA"
       ],
       "constraints": {
-        "pattern": "Mitte [A-Za-zäöü]+ bis Mitte [A-Za-zäöü]+"
-      }
+        "enum": [
+          "Mitte April bis Mitte Juli",
+          "Mitte August bis Mitte November",
+          "Mitte Dezember bis Mitte März",
+          "Mitte Februar bis Mitte Mai",
+          "Mitte Januar bis Mitte April",
+          "Mitte Juli bis Mitte Oktober",
+          "Mitte Juni bis Mitte September",
+          "Mitte Mai bis Mitte August",
+          "Mitte März bis Mitte Juni",
+          "Mitte November bis Mitte Februar",
+          "Mitte Oktober bis Mitte Januar",
+          "Mitte September bis Mitte Dezember"
+        ]
+      } 
     },
     {
       "name": "obs_month_period",
