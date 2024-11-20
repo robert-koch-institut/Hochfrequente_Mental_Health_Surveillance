@@ -154,8 +154,6 @@ Die Daten der hochfrequenten Mental Health Surveillance zu drei Indikatoren der 
 
 #### Variablen und Variablenausprägungen  
 
-Die Daten enthalten folgende Variablen und Variablenausprägungen:
-
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "high_frequency_mental_health_surveillance", "lang": "de"} -->
 
 Die Datei [high_frequency_mental_health_surveillance.tsv](https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance/blob/main/high_frequency_mental_health_surveillance.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_high_frequency_mental_health_surveillance.json](https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance/blob/main/Metadaten/schemas/frictionless_data_schema_high_frequency_mental_health_surveillance.json) hinterlegt:
@@ -183,11 +181,6 @@ Die Datei [high_frequency_mental_health_surveillance.tsv](https://github.com/rob
 <!-- DATA_SCHEMA_TABLE_END -->
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
-
-
-
-
-
 
 
 ### Metadaten
