@@ -1,0 +1,17 @@
+{
+  "name": "10.5281/zenodo.8186447",
+  "title": "Hochfrequente Mental Health Surveillance",
+  "description": "Diese Datei gibt eine Übersicht über die Datensätze in diesem Open Data Repository. Informationen zum Data Package Standard finden Sie unter https://datapackage.org/. Mehr Information über diesen Datensatz finden sie auf Zenodo (https://doi.org/10.5281/zenodo.8186447) oder Github (https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance)",
+  "homepage": "https://doi.org/10.5281/zenodo.8186447",
+  "resources": [
+    {
+      "name": "high_frequency_mental_health_surveillance",
+      "type": "table",
+      "path": "high_frequency_mental_health_surveillance.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "Metadaten/schemas/tableschema_high_frequency_mental_health_surveillance.json"
+    }
+  ]
+}
