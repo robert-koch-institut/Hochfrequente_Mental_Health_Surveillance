@@ -12,7 +12,7 @@ abstract: >-
   Surveillance wurde ursprünglich vor dem Hintergrund neuer Informationsbedarfe
   zur Entwicklung der psychischen Gesundheit der Bevölkerung in der
   COVID-19-Pandemie entwickelt.
-date-released: '2024-11-27'
+date-released: '2024-12-02'
 keywords:
   - Public health surveillance
   - Gesundheitsberichterstattung
@@ -46,7 +46,7 @@ message: Cite me!
 url: >-
   https://robert-koch-institut.github.io/Hochfrequente_Mental_Health_Surveillance
 license: CC-BY-4.0
-doi: 10.5281/zenodo.14229652
+doi: 10.5281/zenodo.14261164
 version: '2024-11-22T00:00:00+01:00'
 authors:
   - family-names: Junker
