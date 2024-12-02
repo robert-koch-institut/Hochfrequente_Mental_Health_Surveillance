@@ -50,8 +50,8 @@
     "Epidemiological Monitoring",
     "Epidemiologische Überwachung"
   ],
-  "publication_date": "2024-04-22",
-  "version": "2024-04-04",
+  "publication_date": "2024-11-27",
+  "version": "2024-11-22",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -81,10 +81,10 @@
   ],
   "dates": [
     {
-      "start": "2024-04-04T16:37:49+02:00",
-      "end": "2024-04-04T16:37:49+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "start": "2024-11-22T00:00:00+01:00",
+      "end": "2024-11-22T00:00:00+01:00",
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
   "related_identifiers": [
