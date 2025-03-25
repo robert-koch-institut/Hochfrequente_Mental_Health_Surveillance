@@ -2,13 +2,18 @@ Datensatzdokumentation
 # Hochfrequente Mental Health Surveillance 
 *Hochfrequente Beobachtung der psychischen Gesundheit der erwachsenen Bevölkerung in Deutschland*  
 
+<br>
+<br>
+<br>
 
-[Robert Koch-Institut | RKI](https://rki.de)  
-Nordufer 20  
-13353 Berlin  
+[**Stephan Junker**](https://orcid.org/0000-0001-8612-9347)&sup1;, [**Stefan Damerow**](https://orcid.org/0000-0002-7265-1123)&sup2;, [**Lena Walther**](https://orcid.org/0000-0002-2703-5022)&sup1; und [**Elvira Mauz**](https://orcid.org/0000-0003-1988-9789)&sup1;    
 
-[Stephan Junker](0000-0001-8612-9347), [Stefan Damerow](0000-0002-7265-1123), [Lena Walther](0000-0002-2703-5022) und [Elvira Mauz](0000-0003-1988-9789)  
-[Fachgebiet 26 | Psychische Gesundheit](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt2/FG26/fg26_node.html)
+<br>
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://rki.de) | [Fachgebiet 26](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/FG26/fg26-psychische-gesundheit-node.html)  
+&emsp;&emsp;&sup2; [Robert Koch-Institut](https://rki.de) | [Fachgebiet 21](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/FG21/fg21-epidemiologisches-daten-und-befragungszentren-node.html)  
+
+<br> 
 
 ---
 
