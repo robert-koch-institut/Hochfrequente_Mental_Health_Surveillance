@@ -43,19 +43,19 @@ Die 2019 bzw. 2021 beginnenden Zeitreihen werden in der Regel monatlich aktualis
 
 ### Administrative und organisatorische Angaben
 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-) Daten erfolgen durch das RKI-Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-) Daten erfolgen durch das RKI-Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
 
 ## Datenerhebung und Datenauswertung  
 
-Die Datengrundlage der Zeitreihen sind vor allem verschiedene Erhebungswellen der im Rahmen des Gesundheitsmonitorings durchgeführten Studie [„Gesundheit in Deutschland aktuell (GEDA)“: GEDA/EHIS 2019-2020, GEDA 2021, GEDA 2022 und GEDA 2023](https://www.geda-studie.de/deutsch/home.html). Eine Erhebungslücke in 2021 konnte mit Daten des „[COVID-19 Impfquoten-Monitoring in Deutschland (COVIMO)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/covimo_studie_Ergebnisse.html)“ geschlossen werden. Alle Studien wurden durch das Bundesministerium für Gesundheit beauftragt und für die Auswertungen zusammengeführt. Diese repräsentativ angelegten telefonischen Gesundheitssurveys umfassen monatliche Erhebungen in Zufallsstichproben von zunächst jeweils ca. 1.000 in Deutschland lebenden Erwachsenen (2019-2021), dann von ca. 3.000 Erwachsenen (2022-2023) und aktuell von ca. 1.000 bzw. für depressive Symptome 2.000 Erwachsenen (ab Mitte April 2023). Die Stichprobenziehung erfolgte in diesen Studien über ein sogenanntes Dual-Frame-Verfahren, das eine Mobilfunk- und eine Festnetzgesamtheit als Auswahlgesamtheiten nutzt ([Allen et al., 2021](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/JoHM_03_2021_GEDA_2019_2020_EHIS.pdf?__blob=publicationFile)).
+Die Datengrundlage der Zeitreihen sind vor allem verschiedene Erhebungswellen der im Rahmen des Gesundheitsmonitorings durchgeführten Studie [„Gesundheit in Deutschland aktuell (GEDA)“: GEDA/EHIS 2019-2020, GEDA 2021, GEDA 2022 und GEDA 2023](https://www.geda-studie.de/deutsch/home.html). Eine Erhebungslücke in 2021 konnte mit Daten des „[COVID-19 Impfquoten-Monitoring in Deutschland (COVIMO)](https://www.rki.de/DE/Themen/Infektionskrankheiten/Impfen/Forschungsprojekte/abgeschlossene-Projekte/COVIMO/covimo_studie.html)“ geschlossen werden. Alle Studien wurden durch das Bundesministerium für Gesundheit beauftragt und für die Auswertungen zusammengeführt. Diese repräsentativ angelegten telefonischen Gesundheitssurveys umfassen monatliche Erhebungen in Zufallsstichproben von zunächst jeweils ca. 1.000 in Deutschland lebenden Erwachsenen (2019-2021), dann von ca. 3.000 Erwachsenen (2022-2023) und aktuell von ca. 1.000 bzw. für depressive Symptome 2.000 Erwachsenen (ab Mitte April 2023). Die Stichprobenziehung erfolgte in diesen Studien über ein sogenanntes Dual-Frame-Verfahren, das eine Mobilfunk- und eine Festnetzgesamtheit als Auswahlgesamtheiten nutzt ([Allen et al., 2021](https://doi.org/10.25646/8460.2)).
 
-Zur Durchführung der telefonischen Befragungen arbeitet das RKI mit einem externen Markt- und Sozialforschungsinstitut (USUMA GmbH) zusammen, welches im Auftrag des Epidemiologischen Daten- und Befragungszentrums der Abteilung 2 des Robert Koch-Instituts die Daten erhebt und unter Einhaltung der Datenschutz- und Sicherheitsbestimmungen anonymisiert zur Verfügung stellt. Bevor die Daten für Auswertungen bereitgestellt werden, findet eine standardisierte Datenaufbereitung inklusive Datenqualitätssicherung statt. So werden z.B. unplausible Angaben identifiziert, Fälle bereinigt oder Variablen generiert ([Allen et al., 2021](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/JoHM_03_2021_GEDA_2019_2020_EHIS.pdf?__blob=publicationFile)). Nach der Bereitstellung der Daten für die MHS erfolgt eine inhaltliche Datenprüfung bezügliche der Angaben zur psychischen Gesundheit und es werden Gewichtungsfaktoren berechnet, die unterschiedliche Teilnahmebereitschaften in verschiedenen Bevölkerungsgruppen sowie die verschiedenen Auswahlwahrscheinlichkeiten der befragten Personen berücksichtigen. Nähere Studieninformationen sind abrufbar unter:
+Zur Durchführung der telefonischen Befragungen arbeitet das RKI mit einem externen Markt- und Sozialforschungsinstitut (USUMA GmbH) zusammen, welches im Auftrag des Epidemiologischen Daten- und Befragungszentrums der Abteilung 2 des Robert Koch-Instituts die Daten erhebt und unter Einhaltung der Datenschutz- und Sicherheitsbestimmungen anonymisiert zur Verfügung stellt. Bevor die Daten für Auswertungen bereitgestellt werden, findet eine standardisierte Datenaufbereitung inklusive Datenqualitätssicherung statt. So werden z.B. unplausible Angaben identifiziert, Fälle bereinigt oder Variablen generiert ([Allen et al., 2021](https://doi.org/10.25646/8460.2)). Nach der Bereitstellung der Daten für die MHS erfolgt eine inhaltliche Datenprüfung bezügliche der Angaben zur psychischen Gesundheit und es werden Gewichtungsfaktoren berechnet, die unterschiedliche Teilnahmebereitschaften in verschiedenen Bevölkerungsgruppen sowie die verschiedenen Auswahlwahrscheinlichkeiten der befragten Personen berücksichtigen. Nähere Studieninformationen sind abrufbar unter:
 
 “Gesundheit in Deutschland aktuell - European Health Interview Survey” | GEDA-EHIS 2019-2020, GEDA 2021, GEDA 2022, GEDA 2023:
-[https://www.rki.de/DE/Content/Gesundheitsmonitoring/Studien/Geda/Geda_node.html](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Studien/Geda/Geda_node.html)
+[https://www.rki.de/DE/Themen/Nichtuebertragbare-Krankheiten/Studien-und-Surveillance/Studien/GEDA/Geda_2024_inhalt.html?nn=16780210](https://www.rki.de/DE/Themen/Nichtuebertragbare-Krankheiten/Studien-und-Surveillance/Studien/GEDA/Geda_2024_inhalt.html?nn=16780210)
 
 COVIMO-Studie: Impfverhalten, Impfbereitschaft und -akzeptanz in Deutschland:
-[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/covimo_studie_Ergebnisse.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/covimo_studie_Ergebnisse.html)
+[https://www.rki.de/DE/Themen/Infektionskrankheiten/Impfen/Forschungsprojekte/abgeschlossene-Projekte/COVIMO/covimo_studie.html](https://www.rki.de/DE/Themen/Infektionskrankheiten/Impfen/Forschungsprojekte/abgeschlossene-Projekte/COVIMO/covimo_studie.html)
 
 
 ### Untersuchungszeitraum  
@@ -125,7 +125,7 @@ Obwohl die gleitenden Drei-Monats-Schätzer bereits geglättete Zeitreihen bilde
 
 #### Gewichtung
 
-Die Drei-Monats-Schätzer werden unter Berücksichtigung von Stichprobengewichten mit Surveyprozeduren berechnet (siehe [Allen et al., 2021](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/JoHM_03_2021_GEDA_2019_2020_EHIS.pdf?__blob=publicationFile)). Die Stichprobengewichte berücksichtigen in der sogenannten Designgewichtung die unterschiedlichen Ziehungswahrscheinlichkeiten der Teilnehmenden im Rahmen des telefonischen Dual-Frame-Verfahrens (Festnetz, Mobilfunk). Darauf aufbauend wird die Stichprobe aus den RKI-Studien GEDA-EHIS, GEDA und COVIMO an öffentliche Bevölkerungsstatistiken (d.h., aktuelle Bevölkerungsstruktur und Zusammensetzung) nach Alter, Geschlecht, Bildung und Region angepasst. Die Gewichtungsfaktoren werden vom Epidemiologischen Daten- und Befragungszentrum (EDZ) des RKI bereitgestellt.
+Die Drei-Monats-Schätzer werden unter Berücksichtigung von Stichprobengewichten mit Surveyprozeduren berechnet (siehe [Allen et al., 2021](https://doi.org/10.25646/8460.2)). Die Stichprobengewichte berücksichtigen in der sogenannten Designgewichtung die unterschiedlichen Ziehungswahrscheinlichkeiten der Teilnehmenden im Rahmen des telefonischen Dual-Frame-Verfahrens (Festnetz, Mobilfunk). Darauf aufbauend wird die Stichprobe aus den RKI-Studien GEDA-EHIS, GEDA und COVIMO an öffentliche Bevölkerungsstatistiken (d.h., aktuelle Bevölkerungsstruktur und Zusammensetzung) nach Alter, Geschlecht, Bildung und Region angepasst. Die Gewichtungsfaktoren werden vom Epidemiologischen Daten- und Befragungszentrum (EDZ) des RKI bereitgestellt.
 
 #### Standardisierung
 
@@ -190,29 +190,65 @@ Die Datei [high_frequency_mental_health_surveillance.tsv](https://github.com/rob
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
-### Metadaten
+<!-- FOOTER_START: {"lang": "de"} -->
 
-Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadatenordner hinterlegt:
 
-> [Metadaten/](/Metadaten/)  
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/representation nachlesbar.   
+### Metadaten  
 
-> [Metadaten/zenodo.json](/Metadaten/zenodo.json)  
+Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadatenordner hinterlegt:  
 
-## Hinweise zur Nachnutzung der Daten
+> [Metadaten/](https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance/tree/main/Metadaten/) 
 
-Offene Forschungsdaten des RKI werden auf [GitHub.com](http://GitHub.com/), [Zenodo.org](http://Zenodo.org/) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+ 
+> [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance/blob/main/Metadaten/zenodo.json)  
 
-- https://github.com/robert-koch-institut
-- https://zenodo.org/communities/robertkochinstitut
-- https://edoc.rki.de/
+In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch der Datenstand in folgendem Format enthalten (Beispiel):  
 
+```
+  "dates": [
+    {
+      "start": "2023-09-11T15:00:21+02:00",
+      "end": "2023-09-11T15:00:21+02:00",
+      "type": "Collected",
+      "description": "Date when the Dataset was created"
+    }
+  ],
+```    
+
+
+Zusätzlich beschreiben wir tabellarische Daten mithilfe des [Data Package Standards](https://datapackage.org/).
+Ein Data Package ist eine strukturierte Sammlung von Daten und zugehörigen Metadaten, die den Austausch und die Wiederverwendung von Daten erleichtert. Es besteht aus einer datapackage.json-Datei, die zentrale Informationen wie die enthaltenen Ressourcen, ihre Formate und Schema-Definitionen beschreibt.
+
+Der Data Package Standard wird von der [Open Knowledge Foundation](https://okfn.org/) bereitgestellt und ist ein offenes Format, das eine einfache, maschinenlesbare Beschreibung von Datensätzen ermöglicht.
+
+Die Liste der in diesem Repository enthaltenen Daten ist in folgender Datei hinterlegt:
+
+> [datapackage.json](https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance/tree/main/datapackage.json)
+
+Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://datapackage.org/standard/table-schema/), das die Struktur der Tabellen beschreibt, einschließlich Spaltennamen, Datentypen und Validierungsregeln. Diese Schema-Dateien finden sich unter:
+
+> [Metadaten/schemas/](https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance/tree/main/Metadaten/schemas) 
+
+
+
+## Hinweise zur Nachnutzung der Daten  
+
+Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
+
+- https://zenodo.org/communities/robertkochinstitut  
+- https://github.com/robert-koch-institut  
+- https://gitlab.opencode.de/robert-koch-institut  
+- https://edoc.rki.de/  
+ 
 ### Lizenz  
 
-Der Datensatz “Hochfrequente Mental Health Surveillance” ist lizenziert unter der  [Creative Commons Namensnennung 4.0 International Public License | CC-BY ](https://creativecommons.org/licenses/by/4.0/deed.de).
+Der Datensatz "Hochfrequente Mental Health Surveillance" ist lizenziert unter  der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](/LICENSE) bzw. [LIZENZ](/LIZENZ) Datei des Datensatzes.
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Hochfrequente_Mental_Health_Surveillance/blob/main/LIZENZ) Datei des Datensatzes.  
+<!-- FOOTER_END -->
+
 
 ## Literatur
 
