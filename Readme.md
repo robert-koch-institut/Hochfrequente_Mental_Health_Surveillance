@@ -1,26 +1,50 @@
-Datensatzdokumentation
-# Hochfrequente Mental Health Surveillance 
-*Hochfrequente Beobachtung der psychischen Gesundheit der erwachsenen Bevölkerung in Deutschland*  
+<!-- HEADER_START: {"lang": "de"} -->
 
-<br>
-<br>
-<br>
 
-[**Stephan Junker**](https://orcid.org/0000-0001-8612-9347)&sup1;, [**Stefan Damerow**](https://orcid.org/0000-0002-7265-1123)&sup2;, [**Lena Walther**](https://orcid.org/0000-0002-2703-5022)&sup1; und [**Elvira Mauz**](https://orcid.org/0000-0003-1988-9789)&sup1;    
+Dokumentation  
+# Hochfrequente Mental Health Surveillance
 
-<br>
+<br> 
+<br> 
+<br> 
 
-&emsp;&emsp;&sup1; [Robert Koch-Institut](https://rki.de) | [Fachgebiet 26](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/FG26/fg26-psychische-gesundheit-node.html)  
-&emsp;&emsp;&sup2; [Robert Koch-Institut](https://rki.de) | [Fachgebiet 21](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/FG21/fg21-epidemiologisches-daten-und-befragungszentren-node.html)  
+[**Stephan Junker**](https://orcid.org/0000-0001-8612-9347)&sup1;, [**Stefan Damerow**](https://orcid.org/0000-0002-7265-1123)&sup2;, [**Lena Walther**](https://orcid.org/0000-0002-2703-5022)&sup1;, & [**Elvira Mauz**](https://orcid.org/0000-0003-1988-9789)&sup1;
 
 <br> 
 
----
+
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 26](https://www.rki.de/fg26)  
+&emsp;&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 21](https://www.rki.de/fg21)
+
+<br> 
 
 **Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
 Junker, S., Damerow, S., Walther, L., & Mauz, E. (2024). Hochfrequente Mental Health Surveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14261164](https://doi.org/10.5281/zenodo.14261164)
-<!-- CITATION_END -->
+
+<br>
+
+
+**Zusammenfassung**    
+Die "Hochfrequente Mental Health Surveillance" des Robert Koch-Instituts ermöglicht eine zeitnahe Beobachtung der psychischen Gesundheit Erwachsener in Deutschland. Aufbauend auf den Daten der GEDA- und COVIMO-Studien werden gleitende Drei-Monats-Schätzer und wöchentliche Glättungskurven zu den Indikatoren depressive Symptome, Angstsymptome und selbsteingeschätzte psychische Gesundheit berechnet. Die Datenbasis umfasst telefonisch erhobene Zufallsstichproben der erwachsenen Bevölkerung ab 2019 bzw. 2021 und wird regelmäßig aktualisiert. Die Erhebung der Indikatoren erfolgt mithilfe validierter Instrumente (PHQ-2, GAD-2, SRMH). Der Datensatz bietet aggregierte Ergebnisse sowohl für die Gesamtbevölkerung als auch stratifiziert nach Geschlecht, Alter und Bildung und unterstützt die frühzeitige Erkennung von Entwicklungen der psychischen Gesundheit auf Bevölkerungsebene.
+
+<br>
+
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Einleitung](#einleitung)
+  - [Datensatz und Entstehungskontext](#datensatz-und-entstehungskontext)
+  - [Datenerhebung und Datenauswertung](#datenerhebung-und-datenauswertung)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Literatur](#literatur)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
+
+
 
 
 ## Einleitung
@@ -43,7 +67,7 @@ Die 2019 bzw. 2021 beginnenden Zeitreihen werden in der Regel monatlich aktualis
 
 ### Administrative und organisatorische Angaben
 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-) Daten erfolgen durch das RKI-Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-) Daten erfolgen durch das RKI-Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
 
 ## Datenerhebung und Datenauswertung  
 
