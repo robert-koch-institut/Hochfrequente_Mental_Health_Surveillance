@@ -55,6 +55,7 @@ Im Rahmen der Mental Health Surveillance (MHS) am Robert Koch-Institut (RKI) wer
 ## Datensatz und Entstehungskontext
 
 Im Datensatz „Hochfrequente Mental Health Surveillance“ werden aktuelle Zeitreihen bestehend aus gleitenden Drei-Monats-Schätzern samt Konfidenzintervallen sowie wöchentlichen Schätzern für die Glättungskurven zu den folgenden Indikatoren der psychischen Gesundheit Erwachsener bereitgestellt: 
+
 - depressive Symptome
 - Angstsymptome
 - selbsteingeschätzte psychische Gesundheit
